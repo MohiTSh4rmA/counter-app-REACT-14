@@ -20,20 +20,6 @@ A simple and interactive counter application built using **React JS**. This proj
 - JavaScript (ES6+)
 - HTML5 + CSS3
 
----
-
-## 📦 Folder Structure
-
-counter-app-REACT-14/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.js
-│ ├── index.js
-│ └── styles.css (if used)
-├── package.json
-└── README.md
-
 
 ---
 
